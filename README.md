@@ -1,4 +1,4 @@
-# Binary-Classification-Web-Application
+# Binary-Classification-Machine-Learning-Web-Application
 
 Project Overview 
 
